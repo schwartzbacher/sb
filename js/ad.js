@@ -1,6 +1,6 @@
 mscConfirm({
  
-  Title: '',
+  Title: 'Sponsored: Clixsense Surveys',
   
   subtitle: 'Would you like to earn in USD by taking surveys?',  // default: ''
 
@@ -8,7 +8,7 @@ mscConfirm({
 
   cancelText: 'I Dont', // default: Cancel,
 
-  dismissOverlay: true, // default: false, closes dialog box when clicked on overlay.
+  dismissOverlay: false, // default: false, closes dialog box when clicked on overlay.
 
   onOk: function() {
     alert('Awesome.');
