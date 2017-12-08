@@ -1,6 +1,6 @@
 mscConfirm({
  
-  title: '', 
+  title: ' ', 
   
   subtitle: 'Would you like to earn in USD by taking surveys?',  // default: ''
 
