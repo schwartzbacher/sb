@@ -1,6 +1,6 @@
 mscConfirm({
  
-  Title: 'Sponsored: Clixsense Surveys',
+  title: 'Sponsored: Clixsense Surveys', 
   
   subtitle: 'Would you like to earn in USD by taking surveys?',  // default: ''
 
