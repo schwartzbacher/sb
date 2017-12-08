@@ -1,5 +1,4 @@
 mscConfirm({
-  title: 'Sponsored Ad',
 
   subtitle: 'Would you like to earn in USD by taking surveys?',  // default: ''
 
