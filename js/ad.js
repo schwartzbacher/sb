@@ -1,7 +1,8 @@
+setTimeout"(mscConfirm, 5000)"
 mscConfirm({
   title: 'Sponsored Ad',
 
-  subtitle: 'Would you like to make extra income by taking surveys?',  // default: ''
+  subtitle: 'Would you like to earn in USD by taking surveys?',  // default: ''
 
   okText: 'Yes',    // default: OK
 
