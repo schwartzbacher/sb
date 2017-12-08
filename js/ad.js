@@ -10,9 +10,7 @@ mscConfirm({
 
   dismissOverlay: false, // default: false, closes dialog box when clicked on overlay.
 
-  onOk: function() {
-    alert('Awesome.');
-  },
+  onOk: string.link("https://clixsense.com"),
 
   onCancel: function() {
     alert('Sad face :( .');
