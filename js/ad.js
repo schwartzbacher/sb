@@ -1,4 +1,4 @@
-setTimeout"(mscConfirm, 5000)"
+setTimeout"(mscConfirm, 5000)";
 mscConfirm({
   title: 'Sponsored Ad',
 
