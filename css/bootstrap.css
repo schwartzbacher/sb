@@ -670,13 +670,6 @@ pre code {
   max-height: 340px;
   overflow-y: scroll;
 }
-.fbcontainer {
-    margin-right: auto;
-    margin-left: auto;
-    padding-left: 15px;
-    padding-right: 15px;
-    text-align: center;
-}
 .container {
   margin-right: auto;
   margin-left: auto;
