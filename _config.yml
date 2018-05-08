@@ -1,1 +1,3 @@
 title: Welcome to the official Github-hosted homepage of Schwartz Bacher Systems.
+url: https://schwartzbacher.com   # with the https protocol
+enforce_ssl: schwartzbacher.com   # without any protocol
