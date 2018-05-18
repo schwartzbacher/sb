@@ -49,7 +49,24 @@ s0.parentNode.insertBefore(s1,s0);
 </script>
 <!-- End of Global site tag (gtag.js) - Google Analytics -->
 
-
+<!-- GDPR -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#ffffff"
+    }
+  },
+  "position": "bottom-right"
+})});
+</script>
+<!--end of GDPR-->
 </head>
 <body>
 <div id="wrapper">
