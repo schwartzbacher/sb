@@ -47,9 +47,24 @@ s0.parentNode.insertBefore(s1,s0);
   gtag('config', 'UA-117987061-1');
 </script>
 <!-- End of Global site tag (gtag.js) - Google Analytics -->
-	 <!-- Consent Assist script (https://app.consentassist.com) --> 
-     <script src="https://app.consentassist.com/widget.js?token=ydbaKCAN1relXvsIS9ohoA" type="text/javascript"></script> <div id="consent_assist_container" ></div> 
-     <!-- End of Consent Assist script -->
+	<!-- GDPR -->
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#ffffff"
+    }
+  },
+  "position": "bottom-right"
+})});
+</script>
+<!--end of GDPR-->
 </head>
 <body>
 <div id="wrapper">
