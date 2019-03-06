@@ -588,6 +588,12 @@ border: 2px solid #fff;
 .team-leader ul li a.fa-whatsapp:hover{
 	color:#25D366;
 }
+.team-leader ul li a.fa-linkedin:hover{
+	color:#0077B5;
+}
+.team-leader ul li a.fa-instagram:hover{
+	color:#fb3958;
+}
 .team-leader ul li a.fa-pinterest:hover{
 	color:#cb2026;
 }
@@ -683,6 +689,12 @@ border: 2px solid #fff;
 }
 .whatsapp a:hover {
 	background: #25D366;
+}
+.linkedin a:hover {
+	background: #0077B5;
+}
+.instagram a:hover {
+	background: #fb3958;
 }
 .pinterest a:hover {
 	background: #cb2026;
