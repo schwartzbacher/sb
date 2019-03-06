@@ -681,6 +681,9 @@ border: 2px solid #fff;
 .facebook a:hover {
 	background: #3b5998;
 }
+.whatsapp a:hover {
+	background: #25D366;
+}
 .pinterest a:hover {
 	background: #cb2026;
 }
